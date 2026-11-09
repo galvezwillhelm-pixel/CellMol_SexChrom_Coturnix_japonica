@@ -58,7 +58,7 @@ The W chromosome was not included because the selected BioSample is male and the
 ### Galaxy History
 
 **Galaxy history:**  
-`[Insert Galaxy history link here]`
+(https://usegalaxy.org/u/galvezwillhelm/h/sex-dosage-coturnix-japonica)`
 
 ### Analysis workflow
 
