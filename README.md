@@ -310,3 +310,11 @@ Whole-genome sequencing read depth successfully supported the expected sex-chrom
 The median autosomal depth was **8.372×**, while the Z chromosome had a depth of **9.135×**, producing a **Z:A ratio of 1.091**. This resulted in a **ZZ-like** dosage interpretation.
 
 The sequence-based result agrees with the **male BioSample metadata**, providing concordant evidence that the analyzed individual has a ZZ-like sex-chromosome complement.
+
+## References
+
+- National Center for Biotechnology Information (NCBI). Genome and BioSample records for *Coturnix japonica*.
+- National Center for Biotechnology Information (NCBI). Sequence Read Archive (SRA): WGS run SRR2162767.
+- Galaxy Project. Galaxy platform for sequence quality control, read alignment, and coverage analysis.
+- Samtools documentation. `samtools flagstat`, `samtools idxstats`, and `samtools coverage`.
+- Sex-chromosome dosage was evaluated using chromosome-level sequencing read depth and normalized sex-chromosome-to-autosome coverage ratios.
